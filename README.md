@@ -30,3 +30,19 @@ export default {
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 # final-project
+
+https://main--school-managment-system132.netlify.app
+
+users:
+
+parent:
+jane.smith@gmail.com
+1001
+
+student:
+omar.nasser@gmail.com
+22478958
+
+teacher:
+michael.smith@gmail.com
+21245589
